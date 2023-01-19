@@ -7,4 +7,4 @@ XBS has been moved to:
 
 MAGMA, a user-friendly and comprehensive verion for Mycobacterium tuberculosis analyses can be found here:
 
-[https://github.com/TORCH-UAntwerpen/XBS-nf](https://github.com/TORCH-Consortium/xbs-nf)
+https://github.com/TORCH-Consortium/MAGMA
