@@ -1,10 +1,9 @@
 # XBS
 
-XBS has been moved to:
+the XBS varinat caling core has been moved to:
 
-[https://github.com/TimHHH/XBS-bash](https://github.com/TimHHH/XBS-bash
-)
+https://github.com/TORCH-Consortium/XBS-variant-calling-core
 
-MAGMA, a user-friendly and comprehensive verion for Mycobacterium tuberculosis analyses can be found here:
+MAGMA, a user-friendly and comprehensive verion specifically for Mycobacterium tuberculosis analyses can be found here:
 
 https://github.com/TORCH-Consortium/MAGMA
